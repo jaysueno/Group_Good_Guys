@@ -1,0 +1,30 @@
+## Project Title
+Global Happiness vs Nick Cage
+ 
+## Team Members
+Elisa Gipe
+Jay Sueno
+Jason Gabnilas
+Ryan Little
+Patrick Plaisted
+ 
+## Project Description/Outline
+We plan to breakdown Global Happiness data and compare it to Air Quality and Ticket sales to 50 Shades of Grey. We’re going to look at the years 2015 - 2017.
+ 
+## Research Questions to Answer
+Does Air Quality impact Global Happiness?
+Does a bad movie affect Global Happiness? (Control)
+ 
+## Datasets to Be Used
+World Happiness Report up to 2020 from Kaggle: https://www.kaggle.com/mathurinache/world-happiness-report?select=2020.csv
+Our World in Data: https://ourworldindata.org/air-pollution
+ 
+## Rough Breakdown of Tasks
+Milestone 1: 
+Milestone 2:
+Milestone 3:
+Milestone 4:
+1 person — Will compare the bad movie vs happiness data
+Elisa, — will break down world happiness
+Jay, — will break down air quality and pollution
+
