@@ -1,0 +1,232 @@
+,Country,2015 Air Pollution Deaths Per 100k,2016 Air Pollution Deaths Per 100k
+0,Papua New Guinea,254.73,249.27
+1,Central African Republic,205.85,202.46
+2,Oceania,203.3,198.84
+3,Solomon Islands,192.32,189.48
+4,Afghanistan,191.8,186.67
+5,Somalia,171.53,168.24
+6,Guinea-Bissau,169.56,165.78
+7,Lesotho,167.6,159.13
+8,Guinea,167.47,163.77
+9,Chad,163.49,161.38
+10,South Sudan,160.89,159.06
+11,Madagascar,160.59,157.44
+12,Kiribati,159.7,156.13
+13,Sierra Leone,156.91,152.9
+14,Low SDI,152.13,150.01
+15,Democratic Republic of Congo,148.44,145.2
+16,North Korea,146.98,142.63
+17,Burundi,146.91,144.36
+18,Vanuatu,142.76,141.01
+19,Eritrea,141.03,136.95
+20,Niger,140.95,140.37
+21,Gambia,138.24,135.86
+22,Burkina Faso,137.96,136.0
+23,Central Sub-Saharan Africa,137.32,134.02
+24,Nepal,136.43,134.88
+25,India,136.35,134.64
+26,South Asia,133.27,131.27
+27,Mozambique,133.11,129.69
+28,Zimbabwe,132.75,128.69
+29,Pakistan,127.82,125.48
+30,Cote d'Ivoire,127.61,123.02
+31,Laos,127.48,123.19
+32,Haiti,125.85,123.59
+33,Myanmar,123.97,120.87
+34,Cameroon,122.51,118.33
+35,Togo,121.15,118.16
+36,Benin,119.29,115.81
+37,Swaziland,118.54,111.55
+38,Congo,118.0,114.2
+39,Liberia,117.01,115.23
+40,Egypt,115.05,114.11
+41,Philippines,114.29,109.84
+42,Bangladesh,113.3,109.4
+43,Sao Tome and Principe,112.71,111.89
+44,Cambodia,111.89,109.49
+45,Ghana,111.14,109.09
+46,Low-middle SDI,111.13,108.95
+47,Uzbekistan,111.07,105.81
+48,Eastern Sub-Saharan Africa,109.64,107.15
+49,Malawi,109.0,106.87
+50,Senegal,108.66,107.07
+51,Fiji,108.36,103.65
+52,Mali,107.98,108.83
+53,Sub-Saharan Africa,107.59,105.33
+54,Western Sub-Saharan Africa,107.15,105.56
+55,Zambia,102.52,100.57
+56,Rwanda,100.56,98.5
+57,Sudan,100.55,97.37
+58,Marshall Islands,100.3,94.95
+59,Angola,100.24,97.12
+60,Yemen,99.42,97.02
+61,Tanzania,99.15,97.67
+62,Timor,98.67,98.08
+63,Uganda,97.85,95.54
+64,Comoros,97.49,95.46
+65,Tajikistan,95.99,94.43
+66,Kenya,93.82,92.05
+67,Ethiopia,93.58,90.64
+68,Micronesia (country),92.92,91.23
+69,Mauritania,87.45,85.22
+70,Mongolia,84.76,81.38
+71,Nigeria,83.63,82.9
+72,Djibouti,83.49,82.48
+73,Azerbaijan,83.3,80.72
+74,Central Asia,82.39,79.42
+75,Samoa,80.41,78.03
+76,Equatorial Guinea,80.36,79.71
+77,Namibia,79.43,77.1
+78,United Arab Emirates,79.42,78.11
+79,East Asia,78.33,74.83
+80,China,78.25,74.71
+81,Southern Sub-Saharan Africa,77.87,74.84
+82,"Southeast Asia, East Asia, and Oceania",77.78,74.51
+83,Bhutan,77.37,74.55
+84,Kyrgyzstan,76.47,71.62
+85,Botswana,75.07,72.0
+86,Tonga,74.72,72.45
+87,Gabon,74.19,72.87
+88,Middle SDI,71.86,69.55
+89,Ukraine,71.01,67.77
+90,Southeast Asia,70.94,68.52
+91,Libya,70.57,71.89
+92,Turkmenistan,69.73,67.36
+93,Georgia,69.46,70.04
+94,Saudi Arabia,69.35,65.16
+95,Indonesia,69.33,67.61
+96,North Africa and Middle East,68.7,67.25
+97,Morocco,68.38,68.43
+98,Serbia,68.17,63.99
+99,Armenia,67.16,64.86
+100,World,67.08,65.15
+101,Guyana,67.03,64.38
+102,Guatemala,66.89,66.82
+103,South Africa,65.66,63.01
+104,Bahrain,65.48,63.67
+105,Syria,65.14,64.84
+106,Qatar,64.72,62.04
+107,Vietnam,63.14,61.47
+108,Bosnia and Herzegovina,60.88,58.98
+109,American Samoa,60.8,59.26
+110,Oman,57.95,54.4
+111,High-middle SDI,57.9,55.41
+112,Bolivia,56.76,54.63
+113,Moldova,55.84,51.7
+114,Kazakhstan,55.33,52.64
+115,Palestine,55.24,53.13
+116,Honduras,54.0,52.5
+117,Bulgaria,53.67,51.78
+118,Cape Verde,53.06,51.27
+119,"Central Europe, Eastern Europe, and Central Asia",52.85,50.3
+120,Belarus,52.69,50.79
+121,Sri Lanka,52.57,43.27
+122,Malaysia,52.56,49.78
+123,Tunisia,51.9,52.42
+124,Eastern Europe,51.76,49.23
+125,Macedonia,51.44,50.37
+126,Grenada,51.09,49.95
+127,Lebanon,50.71,49.96
+128,Trinidad and Tobago,50.63,51.58
+129,Suriname,50.61,50.1
+130,Saint Vincent and the Grenadines,50.36,48.96
+131,Turkey,49.71,47.88
+132,Mauritius,49.7,49.17
+133,Montenegro,49.04,47.89
+134,El Salvador,48.85,47.01
+135,Caribbean,47.94,47.0
+136,Iran,47.21,46.64
+137,Iraq,46.31,43.94
+138,Russia,46.08,43.76
+139,Belize,45.93,44.53
+140,Guam,45.34,44.1
+141,Mexico,45.13,44.74
+142,Paraguay,45.04,42.81
+143,Hungary,44.68,40.54
+144,Algeria,44.36,44.54
+145,Seychelles,43.2,43.12
+146,Central Europe,42.35,40.05
+147,Albania,42.3,41.02
+148,Romania,42.26,40.8
+149,Jamaica,41.81,42.43
+150,Jordan,40.38,39.67
+151,Saint Lucia,39.73,38.87
+152,Central Latin America,39.32,38.41
+153,Northern Mariana Islands,39.3,38.12
+154,Dominican Republic,38.95,37.69
+155,Dominica,38.88,38.23
+156,Slovakia,38.52,35.81
+157,Croatia,37.54,34.24
+158,Venezuela,37.43,34.43
+159,Poland,37.18,35.09
+160,Nicaragua,36.99,34.78
+161,Latin America and Caribbean,36.62,35.58
+162,Barbados,35.92,35.18
+163,Kuwait,35.9,34.87
+164,Latvia,35.64,34.83
+165,Lithuania,34.74,33.55
+166,Andean Latin America,34.6,33.51
+167,Greenland,34.14,33.08
+168,Cuba,33.88,32.95
+169,Bahamas,33.6,32.51
+170,Antigua and Barbuda,33.59,32.52
+171,Thailand,33.33,33.06
+172,Taiwan,33.33,32.8
+173,Argentina,33.09,31.84
+174,Czech Republic,32.42,30.79
+175,Peru,32.11,31.01
+176,Tropical Latin America,31.82,30.63
+177,Brazil,31.52,30.35
+178,United States Virgin Islands,31.03,29.46
+179,Southern Latin America,29.94,28.83
+180,Ecuador,28.04,27.55
+181,Cyprus,27.61,25.96
+182,Greece,26.9,25.79
+183,Chile,24.84,24.02
+184,Maldives,24.6,22.13
+185,Brunei,23.75,20.48
+186,Malta,23.5,23.36
+187,South Korea,23.48,21.88
+188,Colombia,23.24,22.42
+189,Panama,22.88,21.74
+190,Israel,22.84,21.32
+191,Singapore,21.71,19.93
+192,Uruguay,20.83,20.23
+193,Slovenia,20.82,19.74
+194,Costa Rica,20.62,21.09
+195,Belgium,20.48,19.27
+196,Germany,20.48,20.1
+197,United States,19.95,18.81
+198,Denmark,19.89,19.32
+199,Netherlands,19.29,18.59
+200,North America,19.11,17.96
+201,High SDI,19.05,18.08
+202,Wales,18.86,18.51
+203,Austria,18.86,17.81
+204,Italy,18.55,17.03
+205,Bermuda,18.49,17.8
+206,England,18.28,17.99
+207,United Kingdom,18.24,17.89
+208,Northern Ireland,17.92,17.01
+209,High-income,17.62,16.71
+210,Western Europe,17.56,16.72
+211,Scotland,17.48,16.65
+212,Luxembourg,17.06,16.09
+213,Puerto Rico,16.71,16.52
+214,Andorra,16.65,15.61
+215,Estonia,16.53,15.98
+216,Portugal,16.13,15.18
+217,Spain,15.98,14.78
+218,Ireland,15.68,14.83
+219,High-income Asia Pacific,13.82,13.05
+220,Switzerland,12.92,11.98
+221,France,12.83,11.97
+222,Canada,12.22,11.0
+223,Japan,11.95,11.34
+224,Norway,11.47,10.86
+225,Australia,11.28,10.59
+226,Australasia,10.99,10.29
+227,Iceland,10.74,9.92
+228,Sweden,9.85,9.28
+229,New Zealand,9.38,8.65
+230,Finland,8.69,8.4
