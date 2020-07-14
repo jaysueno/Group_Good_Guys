@@ -1,0 +1,33 @@
+## Datapoints
+happiness rank
+happiness score
+standard error
+gdp per capita
+family size
+life expectancy
+freedom
+governmental trust
+Generosity
+(Air Quality) Deaths per 1000 from air quality
+(Air Quality) CO2 emissionsCO2 emissions
+(Air Quality) Mean PM2.5
+(50 Shades of Grey) opening day sales
+(50 Shades of Grey) gross sales
+(50 Shades Darker) opening day sales
+(50 Shades Darker) gross sales
+
+## Rough list of datapoints to compare
+# The first 6 are covered in the happiness data
+happiness score x freedom
+happiness score x trust
+happiness score x life expectancy
+happiness score x generosity
+happiness score x economy
+happiness score x social support
+
+# These draw from mulitple sources
+happiness score x deaths from air quality per capita
+deaths per 1000 x co2 emissions
+happiness score x co2 emissions
+co2 emissions vs 50 shades gross sales
+Gov Trust vs 50 shades gross sales
