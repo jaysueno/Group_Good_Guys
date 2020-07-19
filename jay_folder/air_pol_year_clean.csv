@@ -1,0 +1,463 @@
+,Year,Country,Air Pollution Deaths Per 100k
+0,2015,Afghanistan,191.8
+1,2016,Afghanistan,186.67
+2,2015,Albania,42.3
+3,2016,Albania,41.02
+4,2015,Algeria,44.36
+5,2016,Algeria,44.54
+6,2015,American Samoa,60.8
+7,2016,American Samoa,59.26
+8,2015,Andean Latin America,34.6
+9,2016,Andean Latin America,33.51
+10,2015,Andorra,16.65
+11,2016,Andorra,15.61
+12,2015,Angola,100.24
+13,2016,Angola,97.12
+14,2015,Antigua and Barbuda,33.59
+15,2016,Antigua and Barbuda,32.52
+16,2015,Argentina,33.09
+17,2016,Argentina,31.84
+18,2015,Armenia,67.16
+19,2016,Armenia,64.86
+20,2015,Australasia,10.99
+21,2016,Australasia,10.29
+22,2015,Australia,11.28
+23,2016,Australia,10.59
+24,2015,Austria,18.86
+25,2016,Austria,17.81
+26,2015,Azerbaijan,83.3
+27,2016,Azerbaijan,80.72
+28,2015,Bahamas,33.6
+29,2016,Bahamas,32.51
+30,2015,Bahrain,65.48
+31,2016,Bahrain,63.67
+32,2015,Bangladesh,113.3
+33,2016,Bangladesh,109.4
+34,2015,Barbados,35.92
+35,2016,Barbados,35.18
+36,2015,Belarus,52.69
+37,2016,Belarus,50.79
+38,2015,Belgium,20.48
+39,2016,Belgium,19.27
+40,2015,Belize,45.93
+41,2016,Belize,44.53
+42,2015,Benin,119.29
+43,2016,Benin,115.81
+44,2015,Bermuda,18.49
+45,2016,Bermuda,17.8
+46,2015,Bhutan,77.37
+47,2016,Bhutan,74.55
+48,2015,Bolivia,56.76
+49,2016,Bolivia,54.63
+50,2015,Bosnia and Herzegovina,60.88
+51,2016,Bosnia and Herzegovina,58.98
+52,2015,Botswana,75.07
+53,2016,Botswana,72.0
+54,2015,Brazil,31.52
+55,2016,Brazil,30.35
+56,2015,Brunei,23.75
+57,2016,Brunei,20.48
+58,2015,Bulgaria,53.67
+59,2016,Bulgaria,51.78
+60,2015,Burkina Faso,137.96
+61,2016,Burkina Faso,136.0
+62,2015,Burundi,146.91
+63,2016,Burundi,144.36
+64,2015,Cambodia,111.89
+65,2016,Cambodia,109.49
+66,2015,Cameroon,122.51
+67,2016,Cameroon,118.33
+68,2015,Canada,12.22
+69,2016,Canada,11.0
+70,2015,Cape Verde,53.06
+71,2016,Cape Verde,51.27
+72,2015,Caribbean,47.94
+73,2016,Caribbean,47.0
+74,2015,Central African Republic,205.85
+75,2016,Central African Republic,202.46
+76,2015,Central Asia,82.39
+77,2016,Central Asia,79.42
+78,2015,Central Europe,42.35
+79,2016,Central Europe,40.05
+80,2015,"Central Europe, Eastern Europe, and Central Asia",52.85
+81,2016,"Central Europe, Eastern Europe, and Central Asia",50.3
+82,2015,Central Latin America,39.32
+83,2016,Central Latin America,38.41
+84,2015,Central Sub-Saharan Africa,137.32
+85,2016,Central Sub-Saharan Africa,134.02
+86,2015,Chad,163.49
+87,2016,Chad,161.38
+88,2015,Chile,24.84
+89,2016,Chile,24.02
+90,2015,China,78.25
+91,2016,China,74.71
+92,2015,Colombia,23.24
+93,2016,Colombia,22.42
+94,2015,Comoros,97.49
+95,2016,Comoros,95.46
+96,2015,Congo,118.0
+97,2016,Congo,114.2
+98,2015,Costa Rica,20.62
+99,2016,Costa Rica,21.09
+100,2015,Cote d'Ivoire,127.61
+101,2016,Cote d'Ivoire,123.02
+102,2015,Croatia,37.54
+103,2016,Croatia,34.24
+104,2015,Cuba,33.88
+105,2016,Cuba,32.95
+106,2015,Cyprus,27.61
+107,2016,Cyprus,25.96
+108,2015,Czech Republic,32.42
+109,2016,Czech Republic,30.79
+110,2015,Democratic Republic of Congo,148.44
+111,2016,Democratic Republic of Congo,145.2
+112,2015,Denmark,19.89
+113,2016,Denmark,19.32
+114,2015,Djibouti,83.49
+115,2016,Djibouti,82.48
+116,2015,Dominica,38.88
+117,2016,Dominica,38.23
+118,2015,Dominican Republic,38.95
+119,2016,Dominican Republic,37.69
+120,2015,East Asia,78.33
+121,2016,East Asia,74.83
+122,2015,Eastern Europe,51.76
+123,2016,Eastern Europe,49.23
+124,2015,Eastern Sub-Saharan Africa,109.64
+125,2016,Eastern Sub-Saharan Africa,107.15
+126,2015,Ecuador,28.04
+127,2016,Ecuador,27.55
+128,2015,Egypt,115.05
+129,2016,Egypt,114.11
+130,2015,El Salvador,48.85
+131,2016,El Salvador,47.01
+132,2015,England,18.28
+133,2016,England,17.99
+134,2015,Equatorial Guinea,80.36
+135,2016,Equatorial Guinea,79.71
+136,2015,Eritrea,141.03
+137,2016,Eritrea,136.95
+138,2015,Estonia,16.53
+139,2016,Estonia,15.98
+140,2015,Ethiopia,93.58
+141,2016,Ethiopia,90.64
+142,2015,Fiji,108.36
+143,2016,Fiji,103.65
+144,2015,Finland,8.69
+145,2016,Finland,8.4
+146,2015,France,12.83
+147,2016,France,11.97
+148,2015,Gabon,74.19
+149,2016,Gabon,72.87
+150,2015,Gambia,138.24
+151,2016,Gambia,135.86
+152,2015,Georgia,69.46
+153,2016,Georgia,70.04
+154,2015,Germany,20.48
+155,2016,Germany,20.1
+156,2015,Ghana,111.14
+157,2016,Ghana,109.09
+158,2015,Greece,26.9
+159,2016,Greece,25.79
+160,2015,Greenland,34.14
+161,2016,Greenland,33.08
+162,2015,Grenada,51.09
+163,2016,Grenada,49.95
+164,2015,Guam,45.34
+165,2016,Guam,44.1
+166,2015,Guatemala,66.89
+167,2016,Guatemala,66.82
+168,2015,Guinea,167.47
+169,2016,Guinea,163.77
+170,2015,Guinea-Bissau,169.56
+171,2016,Guinea-Bissau,165.78
+172,2015,Guyana,67.03
+173,2016,Guyana,64.38
+174,2015,Haiti,125.85
+175,2016,Haiti,123.59
+176,2015,High SDI,19.05
+177,2016,High SDI,18.08
+178,2015,High-income,17.62
+179,2016,High-income,16.71
+180,2015,High-income Asia Pacific,13.82
+181,2016,High-income Asia Pacific,13.05
+182,2015,High-middle SDI,57.9
+183,2016,High-middle SDI,55.41
+184,2015,Honduras,54.0
+185,2016,Honduras,52.5
+186,2015,Hungary,44.68
+187,2016,Hungary,40.54
+188,2015,Iceland,10.74
+189,2016,Iceland,9.92
+190,2015,India,136.35
+191,2016,India,134.64
+192,2015,Indonesia,69.33
+193,2016,Indonesia,67.61
+194,2015,Iran,47.21
+195,2016,Iran,46.64
+196,2015,Iraq,46.31
+197,2016,Iraq,43.94
+198,2015,Ireland,15.68
+199,2016,Ireland,14.83
+200,2015,Israel,22.84
+201,2016,Israel,21.32
+202,2015,Italy,18.55
+203,2016,Italy,17.03
+204,2015,Jamaica,41.81
+205,2016,Jamaica,42.43
+206,2015,Japan,11.95
+207,2016,Japan,11.34
+208,2015,Jordan,40.38
+209,2016,Jordan,39.67
+210,2015,Kazakhstan,55.33
+211,2016,Kazakhstan,52.64
+212,2015,Kenya,93.82
+213,2016,Kenya,92.05
+214,2015,Kiribati,159.7
+215,2016,Kiribati,156.13
+216,2015,Kuwait,35.9
+217,2016,Kuwait,34.87
+218,2015,Kyrgyzstan,76.47
+219,2016,Kyrgyzstan,71.62
+220,2015,Laos,127.48
+221,2016,Laos,123.19
+222,2015,Latin America and Caribbean,36.62
+223,2016,Latin America and Caribbean,35.58
+224,2015,Latvia,35.64
+225,2016,Latvia,34.83
+226,2015,Lebanon,50.71
+227,2016,Lebanon,49.96
+228,2015,Lesotho,167.6
+229,2016,Lesotho,159.13
+230,2015,Liberia,117.01
+231,2016,Liberia,115.23
+232,2015,Libya,70.57
+233,2016,Libya,71.89
+234,2015,Lithuania,34.74
+235,2016,Lithuania,33.55
+236,2015,Low SDI,152.13
+237,2016,Low SDI,150.01
+238,2015,Low-middle SDI,111.13
+239,2016,Low-middle SDI,108.95
+240,2015,Luxembourg,17.06
+241,2016,Luxembourg,16.09
+242,2015,Macedonia,51.44
+243,2016,Macedonia,50.37
+244,2015,Madagascar,160.59
+245,2016,Madagascar,157.44
+246,2015,Malawi,109.0
+247,2016,Malawi,106.87
+248,2015,Malaysia,52.56
+249,2016,Malaysia,49.78
+250,2015,Maldives,24.6
+251,2016,Maldives,22.13
+252,2015,Mali,107.98
+253,2016,Mali,108.83
+254,2015,Malta,23.5
+255,2016,Malta,23.36
+256,2015,Marshall Islands,100.3
+257,2016,Marshall Islands,94.95
+258,2015,Mauritania,87.45
+259,2016,Mauritania,85.22
+260,2015,Mauritius,49.7
+261,2016,Mauritius,49.17
+262,2015,Mexico,45.13
+263,2016,Mexico,44.74
+264,2015,Micronesia (country),92.92
+265,2016,Micronesia (country),91.23
+266,2015,Middle SDI,71.86
+267,2016,Middle SDI,69.55
+268,2015,Moldova,55.84
+269,2016,Moldova,51.7
+270,2015,Mongolia,84.76
+271,2016,Mongolia,81.38
+272,2015,Montenegro,49.04
+273,2016,Montenegro,47.89
+274,2015,Morocco,68.38
+275,2016,Morocco,68.43
+276,2015,Mozambique,133.11
+277,2016,Mozambique,129.69
+278,2015,Myanmar,123.97
+279,2016,Myanmar,120.87
+280,2015,Namibia,79.43
+281,2016,Namibia,77.1
+282,2015,Nepal,136.43
+283,2016,Nepal,134.88
+284,2015,Netherlands,19.29
+285,2016,Netherlands,18.59
+286,2015,New Zealand,9.38
+287,2016,New Zealand,8.65
+288,2015,Nicaragua,36.99
+289,2016,Nicaragua,34.78
+290,2015,Niger,140.95
+291,2016,Niger,140.37
+292,2015,Nigeria,83.63
+293,2016,Nigeria,82.9
+294,2015,North Africa and Middle East,68.7
+295,2016,North Africa and Middle East,67.25
+296,2015,North America,19.11
+297,2016,North America,17.96
+298,2015,North Korea,146.98
+299,2016,North Korea,142.63
+300,2015,Northern Ireland,17.92
+301,2016,Northern Ireland,17.01
+302,2015,Northern Mariana Islands,39.3
+303,2016,Northern Mariana Islands,38.12
+304,2015,Norway,11.47
+305,2016,Norway,10.86
+306,2015,Oceania,203.3
+307,2016,Oceania,198.84
+308,2015,Oman,57.95
+309,2016,Oman,54.4
+310,2015,Pakistan,127.82
+311,2016,Pakistan,125.48
+312,2015,Palestine,55.24
+313,2016,Palestine,53.13
+314,2015,Panama,22.88
+315,2016,Panama,21.74
+316,2015,Papua New Guinea,254.73
+317,2016,Papua New Guinea,249.27
+318,2015,Paraguay,45.04
+319,2016,Paraguay,42.81
+320,2015,Peru,32.11
+321,2016,Peru,31.01
+322,2015,Philippines,114.29
+323,2016,Philippines,109.84
+324,2015,Poland,37.18
+325,2016,Poland,35.09
+326,2015,Portugal,16.13
+327,2016,Portugal,15.18
+328,2015,Puerto Rico,16.71
+329,2016,Puerto Rico,16.52
+330,2015,Qatar,64.72
+331,2016,Qatar,62.04
+332,2015,Romania,42.26
+333,2016,Romania,40.8
+334,2015,Russia,46.08
+335,2016,Russia,43.76
+336,2015,Rwanda,100.56
+337,2016,Rwanda,98.5
+338,2015,Saint Lucia,39.73
+339,2016,Saint Lucia,38.87
+340,2015,Saint Vincent and the Grenadines,50.36
+341,2016,Saint Vincent and the Grenadines,48.96
+342,2015,Samoa,80.41
+343,2016,Samoa,78.03
+344,2015,Sao Tome and Principe,112.71
+345,2016,Sao Tome and Principe,111.89
+346,2015,Saudi Arabia,69.35
+347,2016,Saudi Arabia,65.16
+348,2015,Scotland,17.48
+349,2016,Scotland,16.65
+350,2015,Senegal,108.66
+351,2016,Senegal,107.07
+352,2015,Serbia,68.17
+353,2016,Serbia,63.99
+354,2015,Seychelles,43.2
+355,2016,Seychelles,43.12
+356,2015,Sierra Leone,156.91
+357,2016,Sierra Leone,152.9
+358,2015,Singapore,21.71
+359,2016,Singapore,19.93
+360,2015,Slovakia,38.52
+361,2016,Slovakia,35.81
+362,2015,Slovenia,20.82
+363,2016,Slovenia,19.74
+364,2015,Solomon Islands,192.32
+365,2016,Solomon Islands,189.48
+366,2015,Somalia,171.53
+367,2016,Somalia,168.24
+368,2015,South Africa,65.66
+369,2016,South Africa,63.01
+370,2015,South Asia,133.27
+371,2016,South Asia,131.27
+372,2015,South Korea,23.48
+373,2016,South Korea,21.88
+374,2015,South Sudan,160.89
+375,2016,South Sudan,159.06
+376,2015,Southeast Asia,70.94
+377,2016,Southeast Asia,68.52
+378,2015,"Southeast Asia, East Asia, and Oceania",77.78
+379,2016,"Southeast Asia, East Asia, and Oceania",74.51
+380,2015,Southern Latin America,29.94
+381,2016,Southern Latin America,28.83
+382,2015,Southern Sub-Saharan Africa,77.87
+383,2016,Southern Sub-Saharan Africa,74.84
+384,2015,Spain,15.98
+385,2016,Spain,14.78
+386,2015,Sri Lanka,52.57
+387,2016,Sri Lanka,43.27
+388,2015,Sub-Saharan Africa,107.59
+389,2016,Sub-Saharan Africa,105.33
+390,2015,Sudan,100.55
+391,2016,Sudan,97.37
+392,2015,Suriname,50.61
+393,2016,Suriname,50.1
+394,2015,Swaziland,118.54
+395,2016,Swaziland,111.55
+396,2015,Sweden,9.85
+397,2016,Sweden,9.28
+398,2015,Switzerland,12.92
+399,2016,Switzerland,11.98
+400,2015,Syria,65.14
+401,2016,Syria,64.84
+402,2015,Taiwan,33.33
+403,2016,Taiwan,32.8
+404,2015,Tajikistan,95.99
+405,2016,Tajikistan,94.43
+406,2015,Tanzania,99.15
+407,2016,Tanzania,97.67
+408,2015,Thailand,33.33
+409,2016,Thailand,33.06
+410,2015,Timor,98.67
+411,2016,Timor,98.08
+412,2015,Togo,121.15
+413,2016,Togo,118.16
+414,2015,Tonga,74.72
+415,2016,Tonga,72.45
+416,2015,Trinidad and Tobago,50.63
+417,2016,Trinidad and Tobago,51.58
+418,2015,Tropical Latin America,31.82
+419,2016,Tropical Latin America,30.63
+420,2015,Tunisia,51.9
+421,2016,Tunisia,52.42
+422,2015,Turkey,49.71
+423,2016,Turkey,47.88
+424,2015,Turkmenistan,69.73
+425,2016,Turkmenistan,67.36
+426,2015,Uganda,97.85
+427,2016,Uganda,95.54
+428,2015,Ukraine,71.01
+429,2016,Ukraine,67.77
+430,2015,United Arab Emirates,79.42
+431,2016,United Arab Emirates,78.11
+432,2015,United Kingdom,18.24
+433,2016,United Kingdom,17.89
+434,2015,United States,19.95
+435,2016,United States,18.81
+436,2015,United States Virgin Islands,31.03
+437,2016,United States Virgin Islands,29.46
+438,2015,Uruguay,20.83
+439,2016,Uruguay,20.23
+440,2015,Uzbekistan,111.07
+441,2016,Uzbekistan,105.81
+442,2015,Vanuatu,142.76
+443,2016,Vanuatu,141.01
+444,2015,Venezuela,37.43
+445,2016,Venezuela,34.43
+446,2015,Vietnam,63.14
+447,2016,Vietnam,61.47
+448,2015,Wales,18.86
+449,2016,Wales,18.51
+450,2015,Western Europe,17.56
+451,2016,Western Europe,16.72
+452,2015,Western Sub-Saharan Africa,107.15
+453,2016,Western Sub-Saharan Africa,105.56
+454,2015,World,67.08
+455,2016,World,65.15
+456,2015,Yemen,99.42
+457,2016,Yemen,97.02
+458,2015,Zambia,102.52
+459,2016,Zambia,100.57
+460,2015,Zimbabwe,132.75
+461,2016,Zimbabwe,128.69
