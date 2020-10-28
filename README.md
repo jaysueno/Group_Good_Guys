@@ -6,12 +6,31 @@ The pursuit of happiness is a common human interest. Though it is fairly easy to
 what happiness is, it is often difficult to define why we experience it. In this investigation we
 break down national Happiness Scores from the World Happiness Report from the calendar
 years 2015 through 2017 and compare it to a variety of metrics, including but not limited to
-GDP, life expectancy, perception of freedom, and degree of air pollution.
+GDP, life expectancy, perception of freedom, and degree of air pollution. We look at data from several sources over the span of 2015-2017.
 
 ## Key Findings
-*
-*
-*
+* Over the 3 years analyzed, the following countries, had the highest average overall happiness score: Switzerland, Iceland, Denmark,
+Norway, Canada, Finland. The following countries had the lowest average score: Chad, Guinea, Ivory Coast, Burkino Faso, Afghanistan, Rwanda. 
+
+![happiness heatmap](images/happiness-heatmap.jpg)
+
+* The factors that contribute to highest overall happiness: GDP and Family Size. The factors that contribute to least overal happiness: Corruption and Generosity.(we used statistical methods to find correlations between the data)
+
+![happiness reg line](images/happy_plot1.png)
+![happy bar chart](images/happiness_GDP.png)
+
+* Deaths due to air pollution does affect happiness. In otherwords, if pollution is bad enough and the healthcare system isn't ample to treat the diseases due to air pollution, the population is relatively less happy than others.
+![pollution deaths 2015](images/fig_happines_airdeath2015.png)
+![pollution deaths 2016](images/fig_happines_airdeath2016.png)
+
+* As one may have expected, this analysis suggests that there is a negative correlation between air pollutant concentration and happiness score, with the general trend being that countrieshaving the lowest levels of air pollution also having the highest happiness scores and vice versa. While the correlation is moderate at best, it was apparent and consistent for both the 2015 and 2016 data sets.
+
+![pollution air 2015](images/pollution_air2015.png)
+![pollution air 2016](images/airpollution2016.png)
+
+* Heatmap of air pollution around the world.
+
+![pollution heatmap](images/jay_pollution_heatmap.png)
 
 ## Files
 
