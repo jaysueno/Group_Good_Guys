@@ -1,16 +1,15 @@
 # What Affects Happiness? It's In The Data!
 ### Written by Jay Sueno, Elisa Gipe, Jason Gabunilas, Patrick Plaisted, Ryan Little
-_Technologies: Python, Matplotlib, Jupyter Notebook, Pandas, SciPy Stats, Gmaps (Google Maps API), Powerpoint, Excel_
+_Technologies: Python, Matplotlib, Jupyter Notebook, Pandas, Git, SciPy Stats, Gmaps (Google Maps API), Powerpoint, Excel_
+_Team members used github for file version-control_
 
-The pursuit of happiness is a common human interest. Though it is fairly easy to comprehend
-what happiness is, it is often difficult to define why we experience it. In this investigation we
-break down national Happiness Scores from the World Happiness Report from the calendar
-years 2015 through 2017 and compare it to a variety of metrics, including but not limited to
-GDP, life expectancy, perception of freedom, and degree of air pollution. We look at data from several sources over the span of 2015-2017.
+The pursuit of happiness is a common human interest. Though it is fairly easy to comprehendwhat happiness is, it is often difficult to define why we experience it. In this investigation webreak down national Happiness Scores from the World Happiness Report from the calendaryears 2015 through 2017 and compare it to a variety of metrics, including but not limited to GDP, life expectancy, perception of freedom, and degree of air pollution. We look at data from several sources over the span of 2015-2017.
+
+For the full report please view the PDFs above - Team Writeup and Presentation.
 
 ## Key Findings
 * Over the 3 years analyzed, the following countries, had the highest average overall happiness score: Switzerland, Iceland, Denmark,
-Norway, Canada, Finland. The following countries had the lowest average score: Chad, Guinea, Ivory Coast, Burkino Faso, Afghanistan, Rwanda. 
+Norway, Canada, Finland. The following countries had the lowest average score: Chad, Guinea, Ivory Coast, Burkino Faso, Afghanistan, Rwanda.
 
 ![happiness heatmap](images/happiness-heatmap.jpg)
 
@@ -20,6 +19,7 @@ Norway, Canada, Finland. The following countries had the lowest average score: C
 ![happy bar chart](images/happiness_GDP.png)
 
 * Deaths due to air pollution does affect happiness. In otherwords, if pollution is bad enough and the healthcare system isn't ample to treat the diseases due to air pollution, the population is relatively less happy than others.
+
 ![pollution deaths 2015](images/fig_happines_airdeath2015.png)
 ![pollution deaths 2016](images/fig_happines_airdeath2016.png)
 
