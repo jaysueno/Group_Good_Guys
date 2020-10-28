@@ -1,0 +1,116 @@
+Market,Region,Release Date,Opening Day Sales ($USD),Gross Sales ($USD)
+United States,North America,2/13/2015,"85,171,450","166,167,230"
+Austria,"Europe, Middle East, and Africa",2/12/2015,"1,607,134","5,397,769"
+Belgium,"Europe, Middle East, and Africa",2/11/2015,"2,102,437","5,792,486"
+Bulgaria,"Europe, Middle East, and Africa",2/13/2015,"336,509","837,393"
+Croatia,"Europe, Middle East, and Africa",2/12/2015,"331,540","694,309"
+Czech Republic,"Europe, Middle East, and Africa",2/12/2015,"1,512,103","2,983,151"
+Denmark,"Europe, Middle East, and Africa",2/12/2015,"2,107,634","5,230,566"
+Estonia,"Europe, Middle East, and Africa",2/13/2015,"504,946","508,293"
+Finland,"Europe, Middle East, and Africa",2/13/2015,"680,643","1,772,426"
+France,"Europe, Middle East, and Africa",2/11/2015,"12,225,587","28,691,668"
+Germany,"Europe, Middle East, and Africa",2/12/2015,"14,135,994","41,430,653"
+Greece,"Europe, Middle East, and Africa",2/12/2015,"1,042,235","2,521,700"
+Hungary,"Europe, Middle East, and Africa",2/12/2015,"909,724","1,672,429"
+Iceland,"Europe, Middle East, and Africa",2/13/2015,"56,374","2,792"
+Israel,"Europe, Middle East, and Africa",2/12/2015,"848,414","2,601,215"
+Italy,"Europe, Middle East, and Africa",2/12/2015,"9,679,857","20,498,944"
+Latvia,"Europe, Middle East, and Africa",2/13/2015,"208,463","477,562"
+Lebanon,"Europe, Middle East, and Africa",2/12/2015,"243,309","586,535"
+Lithuania,"Europe, Middle East, and Africa",2/13/2015,"347,869","664,105"
+Netherlands,"Europe, Middle East, and Africa",2/12/2015,"1,680,393","6,907,429"
+Norway,"Europe, Middle East, and Africa",2/13/2015,"1,956,779","2,083,791"
+Poland,"Europe, Middle East, and Africa",2/13/2015,"4,574,684","9,473,951"
+Portugal,"Europe, Middle East, and Africa",2/12/2015,"1,015,680","3,176,173"
+Romania,"Europe, Middle East, and Africa",2/13/2015,73,"1,365,168"
+Serbia and Montenegro,"Europe, Middle East, and Africa",2/12/2015,"127,465","470,851"
+Slovakia,"Europe, Middle East, and Africa",2/12/2015,"621,352","1,322,726"
+Slovenia,"Europe, Middle East, and Africa",2/13/2015,"272,602","845,583"
+South Africa,"Europe, Middle East, and Africa",2/13/2015,"1,212,116","3,056,586"
+Spain,"Europe, Middle East, and Africa",2/13/2015,"8,254,264","38,323,430"
+Sweden,"Europe, Middle East, and Africa",2/13/2015,"2,696,028","4,885,001"
+Switzerland (French),"Europe, Middle East, and Africa",2/11/2015,"699,259","1,944,086"
+Switzerland (German),"Europe, Middle East, and Africa",2/12/2015,"1,561,396","4,311,891"
+Switzerland (Combined),"Europe, Middle East, and Africa",na,"2,260,655","6,255,977"
+Turkey,"Europe, Middle East, and Africa",2/13/2015,"1,539,197","3,946,274"
+Ukraine,"Europe, Middle East, and Africa",2/12/2015,"857,407","2,413,538"
+United Kingdom,"Europe, Middle East, and Africa",2/13/2015,"20,876,148","51,603,774"
+Argentina,Latin America,2/12/2015,"3,219,933","3,222,236"
+Bolivia,Latin America,2/12/2015,"127,602","481,608"
+Brazil,Latin America,2/12/2015,"6,498,705","31,374,704"
+Chile,Latin America,2/12/2015,"1,245,916","3,481,152"
+Colombia,Latin America,2/12/2015,"1,330,573","4,281,356"
+Ecuador,Latin America,2/13/2015,"506,926","1,609,451"
+Mexico,Latin America,2/12/2015,"5,495,154","14,148,888"
+Peru,Latin America,2/12/2015,"759,190","1,722,020"
+Uruguay,Latin America,2/12/2015,"160,641","572,450"
+Venezuela,Latin America,2/13/2015,"1,260,571","7,944,249"
+Australia,Asia Pacific,2/12/2015,"8,116,405","18,229,895"
+Hong Kong,Asia Pacific,2/12/2015,"631,309","1,590,469"
+Japan,Asia Pacific,2/13/2015,"674,637","3,622,898"
+New Zealand,Asia Pacific,2/12/2015,"1,052,362","2,538,510"
+Philippines,Asia Pacific,2/11/2015,"2,047,933","3,565,511"
+Russia/CIS,Asia Pacific,2/12/2015,"11,135,621","17,659,358"
+Singapore,Asia Pacific,2/12/2015,"641,621","1,837,395"
+South Korea,Asia Pacific,2/26/2015,"1,248,412","2,483,760"
+Taiwan,Asia Pacific,2/13/2015,"1,413,708","3,930,191"
+Thailand,Asia Pacific,2/12/2015,"497,819","1,205,094"
+=======,,,,
+Market 2015,Region 2015,Release Date 2015,$ Opening Day Sales 2015,$ Gross Sales 2015
+United States,North America,2/13/2015,85171450,166167230
+Austria,"Europe, Middle East, and Africa",2/12/2015,1607134,5397769
+Belgium,"Europe, Middle East, and Africa",2/11/2015,2102437,5792486
+Bulgaria,"Europe, Middle East, and Africa",2/13/2015,336509,837393
+Croatia,"Europe, Middle East, and Africa",2/12/2015,331540,694309
+Czech Republic,"Europe, Middle East, and Africa",2/12/2015,1512103,2983151
+Denmark,"Europe, Middle East, and Africa",2/12/2015,2107634,5230566
+Estonia,"Europe, Middle East, and Africa",2/13/2015,504946,508293
+Finland,"Europe, Middle East, and Africa",2/13/2015,680643,1772426
+France,"Europe, Middle East, and Africa",2/11/2015,12225587,28691668
+Germany,"Europe, Middle East, and Africa",2/12/2015,14135994,41430653
+Greece,"Europe, Middle East, and Africa",2/12/2015,1042235,2521700
+Hungary,"Europe, Middle East, and Africa",2/12/2015,909724,1672429
+Iceland,"Europe, Middle East, and Africa",2/13/2015,56374,2792
+Israel,"Europe, Middle East, and Africa",2/12/2015,848414,2601215
+Italy,"Europe, Middle East, and Africa",2/12/2015,9679857,20498944
+Latvia,"Europe, Middle East, and Africa",2/13/2015,208463,477562
+Lebanon,"Europe, Middle East, and Africa",2/12/2015,243309,586535
+Lithuania,"Europe, Middle East, and Africa",2/13/2015,347869,664105
+Netherlands,"Europe, Middle East, and Africa",2/12/2015,1680393,6907429
+Norway,"Europe, Middle East, and Africa",2/13/2015,1956779,2083791
+Poland,"Europe, Middle East, and Africa",2/13/2015,4574684,9473951
+Portugal,"Europe, Middle East, and Africa",2/12/2015,1015680,3176173
+Romania,"Europe, Middle East, and Africa",2/13/2015,73,1365168
+Serbia and Montenegro,"Europe, Middle East, and Africa",2/12/2015,127465,470851
+Slovakia,"Europe, Middle East, and Africa",2/12/2015,621352,1322726
+Slovenia,"Europe, Middle East, and Africa",2/13/2015,272602,845583
+South Africa,"Europe, Middle East, and Africa",2/13/2015,1212116,3056586
+Spain,"Europe, Middle East, and Africa",2/13/2015,8254264,38323430
+Sweden,"Europe, Middle East, and Africa",2/13/2015,2696028,4885001
+Switzerland (French),"Europe, Middle East, and Africa",2/11/2015,699259,1944086
+Switzerland (German),"Europe, Middle East, and Africa",2/12/2015,1561396,4311891
+Switzerland (Combined),"Europe, Middle East, and Africa",na,2260655,6255977
+Turkey,"Europe, Middle East, and Africa",2/13/2015,1539197,3946274
+Ukraine,"Europe, Middle East, and Africa",2/12/2015,857407,2413538
+United Kingdom,"Europe, Middle East, and Africa",2/13/2015,20876148,51603774
+Argentina,Latin America,2/12/2015,3219933,3222236
+Bolivia,Latin America,2/12/2015,127602,481608
+Brazil,Latin America,2/12/2015,6498705,31374704
+Chile,Latin America,2/12/2015,1245916,3481152
+Colombia,Latin America,2/12/2015,1330573,4281356
+Ecuador,Latin America,2/13/2015,506926,1609451
+Mexico,Latin America,2/12/2015,5495154,14148888
+Peru,Latin America,2/12/2015,759190,1722020
+Uruguay,Latin America,2/12/2015,160641,572450
+Venezuela,Latin America,2/13/2015,1260571,7944249
+Australia,Asia Pacific,2/12/2015,8116405,18229895
+Hong Kong,Asia Pacific,2/12/2015,631309,1590469
+Japan,Asia Pacific,2/13/2015,674637,3622898
+New Zealand,Asia Pacific,2/12/2015,1052362,2538510
+Philippines,Asia Pacific,2/11/2015,2047933,3565511
+Russia/CIS,Asia Pacific,2/12/2015,11135621,17659358
+Singapore,Asia Pacific,2/12/2015,641621,1837395
+South Korea,Asia Pacific,2/26/2015,1248412,2483760
+Taiwan,Asia Pacific,2/13/2015,1413708,3930191
+Thailand,Asia Pacific,2/12/2015,497819,1205094
+>>>>>>> f9d4991f3f087e755d490323ab02e02fc0af199e,,,,

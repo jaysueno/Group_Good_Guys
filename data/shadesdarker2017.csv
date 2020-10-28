@@ -1,0 +1,124 @@
+﻿Market,Region,Release Date,Opening Day Sales ($USD),Gross Sales ($USD)
+United States,North America,2/10/2017,"46,607,250","4,475,654"
+Austria,"Europe, Middle East, and Africa",2/10/2017,"1,019,875","4,628,670"
+Belgium,"Europe, Middle East, and Africa",2/8/2017,"1,295,138","619,814"
+Bulgaria,"Europe, Middle East, and Africa",2/10/2017,"172,707","520,005"
+Croatia,"Europe, Middle East, and Africa",2/9/2017,"162,397","222,750"
+Cyprus,"Europe, Middle East, and Africa",2/9/2017,"75,208","2,145,782"
+Czech Republic,"Europe, Middle East, and Africa",2/9/2017,"903,578","4,415,577"
+Denmark,"Europe, Middle East, and Africa",2/9/2017,"1,341,920","53,322"
+Egypt,"Europe, Middle East, and Africa",2/15/2017,"23,616","63,322"
+Estonia,"Europe, Middle East, and Africa",2/10/2017,"124,117","445,120"
+Finland,"Europe, Middle East, and Africa",2/10/2017,"472,587","1,610,887"
+France,"Europe, Middle East, and Africa",2/8/2017,"8,272,719","24,886,551"
+Germany,"Europe, Middle East, and Africa",2/9/2017,"8,529,213","32,709,880"
+Greece,"Europe, Middle East, and Africa",2/9/2017,"622,757","1,683,324"
+Hungary,"Europe, Middle East, and Africa",2/9/2017,"480,052","1,222,196"
+Iceland,"Europe, Middle East, and Africa",2/10/2017,"48,159","143,594"
+Israel,"Europe, Middle East, and Africa",2/9/2017,"804,738","2,489,791"
+Italy,"Europe, Middle East, and Africa",2/9/2017,"6,830,852","15,793,926"
+Latvia,"Europe, Middle East, and Africa",2/10/2017,"92,280","393,344"
+Lebanon,"Europe, Middle East, and Africa",2/9/2017,"170,619","477,396"
+Lithuania,"Europe, Middle East, and Africa",2/10/2017,"157,108","580,410"
+Netherlands,"Europe, Middle East, and Africa",2/9/2017,"1,364,618","6,332,203"
+Norway,"Europe, Middle East, and Africa",2/10/2017,"1,445,417","3,529,572"
+Poland,"Europe, Middle East, and Africa",2/10/2017,"2,709,921","7,392,748"
+Portugal,"Europe, Middle East, and Africa",2/9/2017,"715,490","2,489,044"
+Romania,"Europe, Middle East, and Africa",2/10/2017,"693,489","1,656,543"
+Serbia and Montenegro,"Europe, Middle East, and Africa",2/9/2017,na,"526,177"
+Slovakia,"Europe, Middle East, and Africa",2/9/2017,"496,141","1,106,362"
+Slovenia,"Europe, Middle East, and Africa",2/10/2017,"127,642","538,974"
+South Africa,"Europe, Middle East, and Africa",2/10/2017,"760,315","2,465,598"
+Spain,"Europe, Middle East, and Africa",2/10/2017,"5,065,660","13,961,715"
+Sweden,"Europe, Middle East, and Africa",2/10/2017,"1,622,542","5,379,401"
+Switzerland,"Europe, Middle East, and Africa",2/8/2017,"1,306,470","4,230,354"
+Turkey,"Europe, Middle East, and Africa",2/10/2017,"552,497","1,788,842"
+Ukraine,"Europe, Middle East, and Africa",2/9/2017,"679,391","159,224"
+United Arab Emirates,"Europe, Middle East, and Africa",3/30/2017,"43,559","50,973"
+United Kingdom,"Europe, Middle East, and Africa",2/10/2017,"9,241,277","28,583,660"
+Argentina,Latin America,2/9/2017,"2,238,126","3,724,443"
+Bolivia,Latin America,2/9/2017,"105,252","339,876"
+Brazil,Latin America,2/9/2017,"7,428,179","21,238,913"
+Chile,Latin America,2/9/2017,"795,764","2,273,168"
+Colombia,Latin America,2/9/2017,"854,643","1,935,725"
+Ecuador,Latin America,2/10/2017,"265,210","984,351"
+Mexico,Latin America,2/9/2017,"2,692,197","6,354,100"
+Panama,Latin America,2/9/2017,"1,006,431","2,561,890"
+Paraguay,Latin America,2/9/2017,"112,133","227,353"
+Peru,Latin America,2/9/2017,"412,266","1,000,712"
+Trinidad & Tobago,Latin America,2/8/2017,"114,490","405,317"
+Uruguay,Latin America,2/9/2017,"130,478","310,280"
+Venezuala,Latin America,2/10/2017,"233,094","1,176,866"
+Australia,Asia Pacific,2/9/2017,"4,732,691","13,785,620"
+Hong Kong,Asia Pacific,2/9/2017,"616,847","1,843,638"
+New Zealand,Asia Pacific,2/9/2017,"372,858","1,317,786"
+Philippines,Asia Pacific,2/8/2017,"1,803,492","3,399,902"
+Russia/CIS,Asia Pacific,2/9/2017,"6,502,797","13,377,712"
+Singapore,Asia Pacific,2/9/2017,"369,593","1,031,387"
+South Korea,Asia Pacific,2/9/2017,"655,011","1,379,601"
+Taiwan,Asia Pacific,2/9/2017,"851,789","2,798,012"
+Thailand,Asia Pacific,2/9/2017,"380,099","768,446"
+Vietnam,Asia Pacific,2/10/2017,"143,341","541,678"
+=======,,,,
+﻿Market 2017,Region 2017,Release Date 2017,$ Opening Day Sales 2017,$ Gross Sales 2017
+United States,North America,2/10/2017,46607250,4475654
+Austria,"Europe, Middle East, and Africa",2/10/2017,1019875,4628670
+Belgium,"Europe, Middle East, and Africa",2/8/2017,1295138,619814
+Bulgaria,"Europe, Middle East, and Africa",2/10/2017,172707,520005
+Croatia,"Europe, Middle East, and Africa",2/9/2017,162397,222750
+Cyprus,"Europe, Middle East, and Africa",2/9/2017,75208,2145782
+Czech Republic,"Europe, Middle East, and Africa",2/9/2017,903578,4415577
+Denmark,"Europe, Middle East, and Africa",2/9/2017,1341920,53322
+Egypt,"Europe, Middle East, and Africa",2/15/2017,23616,63322
+Estonia,"Europe, Middle East, and Africa",2/10/2017,124117,445120
+Finland,"Europe, Middle East, and Africa",2/10/2017,472587,1610887
+France,"Europe, Middle East, and Africa",2/8/2017,8272719,24886551
+Germany,"Europe, Middle East, and Africa",2/9/2017,8529213,32709880
+Greece,"Europe, Middle East, and Africa",2/9/2017,622757,1683324
+Hungary,"Europe, Middle East, and Africa",2/9/2017,480052,1222196
+Iceland,"Europe, Middle East, and Africa",2/10/2017,48159,143594
+Israel,"Europe, Middle East, and Africa",2/9/2017,804738,2489791
+Italy,"Europe, Middle East, and Africa",2/9/2017,6830852,15793926
+Latvia,"Europe, Middle East, and Africa",2/10/2017,92280,393344
+Lebanon,"Europe, Middle East, and Africa",2/9/2017,170619,477396
+Lithuania,"Europe, Middle East, and Africa",2/10/2017,157108,580410
+Netherlands,"Europe, Middle East, and Africa",2/9/2017,1364618,6332203
+Norway,"Europe, Middle East, and Africa",2/10/2017,1445417,3529572
+Poland,"Europe, Middle East, and Africa",2/10/2017,2709921,7392748
+Portugal,"Europe, Middle East, and Africa",2/9/2017,715490,2489044
+Romania,"Europe, Middle East, and Africa",2/10/2017,693489,1656543
+Serbia and Montenegro,"Europe, Middle East, and Africa",2/9/2017,na,526177
+Slovakia,"Europe, Middle East, and Africa",2/9/2017,496141,1106362
+Slovenia,"Europe, Middle East, and Africa",2/10/2017,127642,538974
+South Africa,"Europe, Middle East, and Africa",2/10/2017,760315,2465598
+Spain,"Europe, Middle East, and Africa",2/10/2017,5065660,13961715
+Sweden,"Europe, Middle East, and Africa",2/10/2017,1622542,5379401
+Switzerland,"Europe, Middle East, and Africa",2/8/2017,1306470,4230354
+Turkey,"Europe, Middle East, and Africa",2/10/2017,552497,1788842
+Ukraine,"Europe, Middle East, and Africa",2/9/2017,679391,159224
+United Arab Emirates,"Europe, Middle East, and Africa",3/30/2017,43559,50973
+United Kingdom,"Europe, Middle East, and Africa",2/10/2017,9241277,28583660
+Argentina,Latin America,2/9/2017,2238126,3724443
+Bolivia,Latin America,2/9/2017,105252,339876
+Brazil,Latin America,2/9/2017,7428179,21238913
+Chile,Latin America,2/9/2017,795764,2273168
+Colombia,Latin America,2/9/2017,854643,1935725
+Ecuador,Latin America,2/10/2017,265210,984351
+Mexico,Latin America,2/9/2017,2692197,6354100
+Panama,Latin America,2/9/2017,1006431,2561890
+Paraguay,Latin America,2/9/2017,112133,227353
+Peru,Latin America,2/9/2017,412266,1000712
+Trinidad & Tobago,Latin America,2/8/2017,114490,405317
+Uruguay,Latin America,2/9/2017,130478,310280
+Venezuala,Latin America,2/10/2017,233094,1176866
+Australia,Asia Pacific,2/9/2017,4732691,13785620
+Hong Kong,Asia Pacific,2/9/2017,616847,1843638
+New Zealand,Asia Pacific,2/9/2017,372858,1317786
+Philippines,Asia Pacific,2/8/2017,1803492,3399902
+Russia/CIS,Asia Pacific,2/9/2017,6502797,13377712
+Singapore,Asia Pacific,2/9/2017,369593,1031387
+South Korea,Asia Pacific,2/9/2017,655011,1379601
+Taiwan,Asia Pacific,2/9/2017,851789,2798012
+Thailand,Asia Pacific,2/9/2017,380099,768446
+Vietnam,Asia Pacific,2/10/2017,143341,541678
+>>>>>>> f9d4991f3f087e755d490323ab02e02fc0af199e,,,,
