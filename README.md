@@ -36,6 +36,7 @@ Norway, Canada, Finland. The following countries had the lowest average score: C
 
 * Team-Presentation-Happiness.pdf - Full powerpoint presentation with our findings.
 * Team-Writeup-Happinesspdf - Summary writeup of our methods, challenges, and findings.
+* Jay Sueno's Jupyter Notebook in 'team_notebooks' directory - air_quality_jay_notebook.ipynb
 
 ## About the programming and analysis
 
