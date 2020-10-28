@@ -1,6 +1,6 @@
 # What Affects Happiness? It's In The Data!
 ### Written by Jay Sueno, Elisa Gipe, Jason Gabunilas, Patrick Plaisted, Ryan Little
-_Python, Matplotlib, Jupyter Notebook, Pandas, SciPy Stats, Gmaps (Google Maps API), Powerpoint, Excel_
+_Technologies: Python, Matplotlib, Jupyter Notebook, Pandas, SciPy Stats, Gmaps (Google Maps API), Powerpoint, Excel_
 
 The pursuit of happiness is a common human interest. Though it is fairly easy to comprehend
 what happiness is, it is often difficult to define why we experience it. In this investigation we
