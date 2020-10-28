@@ -5,7 +5,9 @@ _Team members used github for file version-control_
 
 The pursuit of happiness is a common human interest. Though it is fairly easy to comprehendwhat happiness is, it is often difficult to define why we experience it. In this investigation webreak down national Happiness Scores from the World Happiness Report from the calendaryears 2015 through 2017 and compare it to a variety of metrics, including but not limited to GDP, life expectancy, perception of freedom, and degree of air pollution. We look at data from several sources over the span of 2015-2017.
 
-For the full report please view the PDFs above - Team Writeup and Presentation.
+For the full report please view the PDFs above - [Team-Presentation-Happiness.pdf](Team-Presentation-Happiness.pdf) and [Team-Writeup-Happiness.pdf](Team-Writeup-Happiness.pdf).
+
+To see Jay Sueno's jupyter notebook work visit this link: [air_quality_jay_notebook.ipynb](team_notebooks/air_quality_jay_notebook.ipynb).
 
 ## Key Findings
 * Over the 3 years analyzed, the following countries, had the highest average overall happiness score: Switzerland, Iceland, Denmark,
